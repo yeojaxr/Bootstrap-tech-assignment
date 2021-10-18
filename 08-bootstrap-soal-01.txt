@@ -8,4 +8,4 @@ Jawab: Tidak
 Jawab: Tailwind, materialize, semanticUI, Bulma dan Foundation
 
 4. Bagaimana tata cara penggunaan Bootstrap?
-Jawab: 
+Jawab: menghubungkan halaman ke link CDN yang sudah disediakan oleh bootstrap. Cara penggunaannya dengan memanggil class-class dari bootsrap.
